@@ -1,7 +1,7 @@
 # No whitespace after the comma or in your part name!
-config ZPLIT_ZALP_LEFT
-    def_bool $(shields_list_contains,my_keyboard_left)
+config SHIELD_ZPLIT_ZALP_LEFT
+    def_bool $(shields_list_contains,zplit_zalp_left)
 
 # No whitespace after the comma or in your part name!
-config ZPLIT_ZALP_RIGHT
-    def_bool $(shields_list_contains,my_keyboard_right)
+config SHIELD_ZPLIT_ZALP_RIGHT
+    def_bool $(shields_list_contains,zplit_zalp_right)
