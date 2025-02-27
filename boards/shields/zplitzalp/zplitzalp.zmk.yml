@@ -7,5 +7,5 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
-  - zplit_zalp_left
-  - zplit_zalp_right
+  - zplitzalp_left
+  - zplitzalp_right

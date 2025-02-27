@@ -1,7 +1,7 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: zplit_zalp_left
+    shield: zplitzalp_left
   - board: seeeduino_xiao_ble
-    shield: zplit_zalp_right
+    shield: zplitzalp_right
   - board: seeeduino_xiao_ble
     shield: settings_reset
